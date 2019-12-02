@@ -1,0 +1,22 @@
+name: markello_transcriptome
+channels:
+    - defaults
+    - conda-forge
+dependencies:
+    - python>=3.7
+    - ipython
+    - matplotlib
+    - nibabel
+    - nilearn
+    - numpy
+    - pandas
+    - pip
+    - psutil
+    - pytables
+    - scikit-learn
+    - scipy
+    - seaborn
+    - xlrd
+    - pip:
+        - git+https://github.com/netneurolab/netneurotools.git@79936ea4b9b90a5b3a70601dfb5940871b671b5a
+        - "abagen==0.1.1"

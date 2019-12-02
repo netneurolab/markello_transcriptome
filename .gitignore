@@ -1,0 +1,7 @@
+data/
+.vscode/
+figs/
+*.log
+*.out
+*.simg
+figures/

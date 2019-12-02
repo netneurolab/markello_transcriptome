@@ -1,0 +1,44 @@
+{
+  "creators": [
+    {
+      "name": "Markello, Ross D.",
+      "affiliation": "McConnell Brain Imaging Centre, Montréal Neurological Institute, McGill University, Montréal, Quebec, Canada",
+      "orcid": "0000-0003-1057-1336"
+    },
+    {
+      "name": "Arnatkeviciute, Aurina",
+      "affiliation": "Turner Institute for Brain and Mental Health, School of Psychological Sciences and Monash Biomedical Imaging, Monash University, Clayton, Australia",
+      "orcid": "0000-0003-4098-7084"
+    },
+    {
+      "name": "Poline, Jean-Baptise",
+      "affiliation": "McConnell Brain Imaging Centre, Montréal Neurological Institute, McGill University, Montréal, Quebec, Canada",
+      "orcid": "0000-0002-9794-749X"
+    },
+    {
+      "name": "Fulcher, Ben D.",
+      "affiliation": "School of Physics, The University of Sydney, NSW 2006, Australia",
+      "orcid": "0000-0002-3003-4055"
+    },
+    {
+      "name": "Fornito, Alex",
+      "affiliation": "Turner Institute for Brain and Mental Health, School of Psychological Sciences and Monash Biomedical Imaging, Monash University, Clayton, Australia",
+      "orcid": "0000-0001-9134-480X"
+    },
+    {
+      "name": "Mišić, Bratislav",
+      "affiliation": "McConnell Brain Imaging Centre, Montréal Neurological Institute, McGill University, Montréal, Quebec, Canada",
+      "orcid": "0000-0003-0307-2862"
+    }
+  ],
+  "description": "Repository containing analysis scripts in support of Markello et al., biorxiv, 2021.",
+  "keywords": [
+    "transcriptomics",
+    "neuroimaging",
+    "MRI",
+    "processing variability"
+  ],
+  "license": "BSD-3-Clause",
+  "upload_type": "software",
+  "access_right": "open"
+}
