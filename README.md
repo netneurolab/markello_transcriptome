@@ -2,7 +2,10 @@
 
 ## "What's in this repository?"
 
-This repository contains data, code, and results for the manuscript "Standardizing workflows in imaging transcriptomics with the `abagen` toolbox" by Markello et al. *Biorxiv*, 2021.
+This repository contains data, code, and results for the paper:
+
+Markello, R. D., Arnatkeviciute, A., Poline, J.-B., Fulcher, B. D., Fornito, A., & Misic, B. (2021). Standardizing workflows in imaging transcriptomics with the abagen toolbox. _eLife_, _10_, e72129. [https://doi.org/10.7554/eLife.72129](https://doi.org/10.7554/eLife.72129)
+
 We investigate how variability in processing of the Allen Human Brain Atlas impacts analyses relating gene expression to neuroimaging data and highlight how functionality from the [`abagen`](https://github.com/rmarkello/abagen) toolbox can help to standardize these workflows.
 
 We've tried to document the various aspects of this repository with a whole bunch of README files, so feel free to jump around and check things out.
